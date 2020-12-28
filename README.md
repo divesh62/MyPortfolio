@@ -1,2 +1,2 @@
 # MyPortfolio
-Link : https://sunilkuyadav.github.io/MyPortfolio/
+Link : https://divesh62.github.io/MyPortfolio/
